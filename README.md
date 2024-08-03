@@ -1,7 +1,7 @@
 # Arabic Font Classifier
 
 In this project, we developed a system to classify Arabic text paragraphs into four different
-fonts using Support Vector Machines (SVM) which achieved 98.5% accuracy on the test set.
+fonts using Support Vector Machines (SVM) which achieved 99.4% accuracy on the test set.
 
 The ability to automatically classify text into font types can be useful for tasks such as font recognition, document analysis, and
 optical character recognition (OCR) systems.
